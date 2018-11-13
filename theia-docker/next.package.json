@@ -19,7 +19,7 @@
         "@theia/json": "next",
         "@theia/textmate-grammars": "next",
         "@theia/mini-browser": "next",
-        "theia-vue-extension": "next"
+        "@theia/languages": "next"
     },
     "devDependencies": {
         "@theia/cli": "next"
