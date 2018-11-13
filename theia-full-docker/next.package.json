@@ -46,7 +46,8 @@
         "@theia/userstorage": "next",
         "@theia/variable-resolver": "next",
         "@theia/workspace": "next",
-        "theia-yang-extension": "next"
+        "theia-yang-extension": "next",
+        "theia-vue-extension": "next"
     },
     "devDependencies": {
         "@theia/cli": "next"
