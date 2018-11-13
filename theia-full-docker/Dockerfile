@@ -145,7 +145,7 @@ RUN chmod g+rw /home && \
 RUN apt-get update && apt-get install -y python build-essential
 
 USER theia
-ARG version=latest
+ARG version=next
 WORKDIR /home/theia
 ADD $version.package.json ./package.json
 ARG GITHUB_TOKEN
